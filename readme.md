@@ -1,5 +1,7 @@
 # Laboratorio 2: Implementación de Árbol de Merkle (Merkle Tree)
 
+**Estudiante:** Carlos David Buitrago Serna
+
 ## Descripción del Proyecto
 Este proyecto implementa una estructura de datos de Árbol de Merkle en Python utilizando el algoritmo de resumen criptográfico **SHA-256**. Su objetivo es demostrar cómo se asegura la inmutabilidad de un conjunto de datos y cómo se generan y verifican las pruebas de inclusión (*Merkle Proofs*) de manera eficiente.
 
